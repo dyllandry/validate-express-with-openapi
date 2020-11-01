@@ -1,3 +1,3 @@
-# improvements
+# Validate rest with openapi
 
-- automatic endpoint validation according to openapi spec?
+Using [express-openapi-validator](https://www.npmjs.com/package/express-openapi-validator), you can add a validation middleware to your api that is automatically generated according to an openapi spec.
